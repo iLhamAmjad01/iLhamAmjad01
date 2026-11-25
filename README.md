@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Ilham Amjad — Full Stack MERN Developer"/>
+<img src="./banner.svg" width="100%" alt="Ilham Amjad — Full Stack MERN Developer"/>
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=20&duration=2800&pause=900&color=8B7CFF&center=true&vCenter=true&width=680&lines=Building+full-stack+products+with+React+and+Node;Designing+APIs+that+are+boring+in+the+best+way;Shipping+interfaces+that+feel+considered;Currently+deep+in+the+Next.js+App+Router" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=8B7CFF&center=true&vCenter=true&width=680&lines=Building+full-stack+products+with+React+and+Node;Designing+APIs+that+are+boring+in+the+best+way;Shipping+interfaces+that+feel+considered;Currently+deep+in+the+Next.js+App+Router" alt="Typing SVG" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## About Me
 
@@ -28,7 +28,7 @@ I am Ilham Amjad, a full stack developer working primarily in the MERN stack —
 
 My work leans toward products that need to look finished and behave predictably: dashboards, authenticated applications, and marketing or landing surfaces that convert. I care about the parts of an application that are invisible when done well — loading states, error boundaries, token expiry, query performance — because those are what separate a demo from something a business can run on.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## Developer Philosophy
 
@@ -39,7 +39,7 @@ My work leans toward products that need to look finished and behave predictably:
 - **Boring is a compliment.** Predictable state management, typed contracts between client and server, and consistent naming conventions matter more to me than clever one-off solutions.
 - **Performance is a feature, not a cleanup task.** Bundle size, query shape and re-render cost are considered while building, not fixed in a later pass.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## Professional Summary
 
@@ -52,7 +52,7 @@ My work leans toward products that need to look finished and behave predictably:
 | **Location** | Islamabad, Pakistan |
 | **Availability** | Open to full-stack and frontend-focused engagements |
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## Current Focus
 
@@ -68,7 +68,7 @@ Refining a component library built on Tailwind CSS and Radix primitives.
 - Query performance and indexing strategy in MongoDB at larger data volumes
 - Testing strategy for full-stack TypeScript applications — contract tests between client and API
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## Development Workflow
 
@@ -85,7 +85,7 @@ Refining a component library built on Tailwind CSS and Radix primitives.
 - Every API route validates its input and returns a consistent error shape — no silent failures.
 - Authentication is handled once, centrally, and reused — never re-implemented per route.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## Services
 
@@ -100,7 +100,7 @@ Refining a component library built on Tailwind CSS and Radix primitives.
 | **Performance Optimization** | Bundle size, render cost, query performance, Core Web Vitals |
 | **Modern UI Development** | Tailwind-based design systems, motion used with restraint, dark-mode-first interfaces |
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## Tech Stack
 
@@ -118,7 +118,7 @@ Refining a component library built on Tailwind CSS and Radix primitives.
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## Featured Projects
 
@@ -203,7 +203,7 @@ A small, typed component library — buttons, forms, tables, modals — built on
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## GitHub Analytics
 
@@ -218,9 +218,7 @@ A small, typed component library — buttons, forms, tables, modals — built on
 
 <img src="https://raw.githubusercontent.com/iLhamAmjad01/iLhamAmjad01/output/snake-dark.svg" alt="Contribution Snake" width="90%"/>
 
-<img src="./metrics.svg" alt="GitHub Metrics" width="90%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iLhamAmjad01&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 <br/>
 
@@ -230,10 +228,10 @@ A small, typed component library — buttons, forms, tables, modals — built on
 
 *A GitHub Skyline model — a 3D generation of this contribution history — can be generated at [skyline.github.com](https://skyline.github.com/iLhamAmjad01/2025) and is not embedded here since it is exported as a downloadable model rather than an image.*
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt=""/>
+<img src="./footer.svg" width="100%" alt=""/>
 
 </div>
